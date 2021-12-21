@@ -120,6 +120,7 @@ h1, h2 {
 
 #club-ethos {
     height: 600px;
+
 }
 
 #left-about {
@@ -145,7 +146,7 @@ h1, h2 {
 
 
 .left-about-heading {
-    width:60%;
+    width: 60%;
     float: right;
     line-height: 20px;
     clear: both;
